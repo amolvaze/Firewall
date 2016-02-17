@@ -6,4 +6,4 @@ Project makes use of (https://www.opendaylight.org/) Opendaylight controller & t
 
 It is indicated on the terminal when python script is being run with set of sample IP addresses list provided.
 
-It has list of IP addresses to be blocked provided while running python script.
+Project has a list of IP addresses to be blocked (In separate CSV file) provided while running python script.
